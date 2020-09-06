@@ -2,8 +2,8 @@
 This is an exercise to practice classifying website content (betting or non betting website)
 
 This exercise has 2 parts:
-Part 1 - Generating the dictionary of keywords.
-Part 2 - Using the dictionary of keywords to classify a website.
+- Part 1 - Generating the dictionary of keywords.
+- Part 2 - Using the dictionary of keywords to classify a website.
 
 Part 1
 1. Gather manualy as much as possible gambling website. Then list the URLs of the websites in a text file.
