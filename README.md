@@ -13,7 +13,7 @@ Part 1
 	- OUTPUT: dictionary file
 
 Part 2
-Using the dictionary from Part 1, create a Python script that will expect a URL input, and then generate a classification if it's a Gambling site or not.
+- Using the dictionary from Part 1, create a Python script that will expect a URL input, and then generate a classification if it's a Gambling site or not.
 	- INPUT: yourscript2.py <Any URL>
 	- OUTPUT1: Gambling site
 	- OUTPUT2: Non-Gambling site
