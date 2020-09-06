@@ -1,0 +1,1 @@
+{"bet": "gambling", "slots": "gambling", "casino": "gambling", "online casino": "gambling", "sportsbook": "gambling", "roulette blackjack": "gambling", "betting": "gambling", "free": "gambling", "bingo": "gambling", "spins": "gambling", "bonus": "gambling", "gambling": "gambling", "vegas": "gambling", "sportsbook spin": "gambling"}
